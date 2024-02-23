@@ -6,5 +6,9 @@ import { Component } from '@angular/core';
   styleUrls: ['./notpagefound.component.css']
 })
 export class NotpagefoundComponent {
+  year = new Date().getFullYear();
+
+
+
 
 }
