@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+subidas a GIT. sUBIR EL DIRECTORIO AL DIRECTORIO DE GIT REMOTO
+ 1) git remote add origin https://github.com/sergonra/adminpro.git
+ 2) git branch -M main
+ 3) git push -u origin main
+
